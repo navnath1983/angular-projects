@@ -1,0 +1,18 @@
+{
+  "name": "super-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": ">=7.0.0"
+  },
+  "main": "bundles/super-lib.umd.js",
+  "module": "fesm2015/super-lib.js",
+  "es2015": "fesm2015/super-lib.js",
+  "esm2015": "esm2015/super-lib.js",
+  "fesm2015": "fesm2015/super-lib.js",
+  "typings": "super-lib.d.ts",
+  "metadata": "super-lib.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}

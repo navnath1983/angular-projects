@@ -1,0 +1,3 @@
+export * from "./src/super-lib.component";
+export * from "./src/super-lib.module";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uL3B1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsY0FBYywyQkFBMkIsQ0FBQztBQUMxQyxjQUFjLHdCQUF3QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0ICogZnJvbSBcIi4vc3JjL3N1cGVyLWxpYi5jb21wb25lbnRcIjtcclxuZXhwb3J0ICogZnJvbSBcIi4vc3JjL3N1cGVyLWxpYi5tb2R1bGVcIjsiXX0=
