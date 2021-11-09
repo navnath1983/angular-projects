@@ -1,0 +1,14 @@
+.leftNav{
+    float: left;
+    width: 70px;
+    height: 660px;
+    background-color: #f4f5f7;
+}
+.rightImage{
+    float: left;
+    width: auto;
+    padding: 10px 0 0 15px;
+}
+.clearfix{
+    clear: both;
+}
